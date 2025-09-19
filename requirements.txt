@@ -9,4 +9,4 @@ langchain-openai
 langchain-community
 python-dotenv
 pypdf
-sentence-transformer
+sentence-transformers
